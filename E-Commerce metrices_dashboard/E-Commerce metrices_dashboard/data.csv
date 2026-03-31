@@ -1,0 +1,10 @@
+ 
+OrderID,Date,Product,Category,Price,Quantity,CustomerID
+1,2024-01-01,Laptop,Electronics,50000,1,C101
+2,2024-01-02,Phone,Electronics,20000,2,C102
+3,2024-01-03,Shoes,Fashion,3000,1,C103
+4,2024-01-04,T-Shirt,Fashion,1000,3,C101
+5,2024-01-05,Headphones,Electronics,2000,2,C104
+6,2024-01-06,Watch,Accessories,5000,1,C105
+7,2024-01-07,Perfume,Accessories,500,2,C105
+8,2024-01-08,Belts,Accessories,800,1,C106
